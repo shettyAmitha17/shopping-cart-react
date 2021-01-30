@@ -1,2 +1,2 @@
 # shopping-cart-react
-Shopping Cart application performing the CURD operation
+Shopping Cart application performing the CRUD operation
